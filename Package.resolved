@@ -3,7 +3,7 @@
     {
       "identity" : "foundationcompatkit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/FoundationCompatKit.git",
+      "location" : "https://github.com/j-w-i/FoundationCompatKit.git",
       "state" : {
         "branch" : "master",
         "revision" : "4934a727790e6170205c9060a7a6771030ee324f"

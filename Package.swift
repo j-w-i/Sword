@@ -8,7 +8,7 @@ var targetDeps: [Target.Dependency] = []
 
 #if !os(Linux)
 dependencies += [
-  .package(url: "https://github.com/JWIMaster/FoundationCompatKit.git", branch: "master")
+  .package(url: "https://github.com/j-w-i/FoundationCompatKit.git", branch: "master")
 ]
   
 targetDeps += ["FoundationCompatKit"]
